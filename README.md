@@ -8,3 +8,10 @@ Customers have different behaviors and preferences, and reasons for cancelling t
 Impact of customer churn on businesses
 
 A company with a high churn rate loses many subscribers, resulting in lower growth rates and a greater impact on sales and profits. Companies with low churn rates can retain customers.
+
+Brief Review on Decision Tree :
+Decision trees are a nonparametric supervised learning method used for classification and regression. The goal is to build a model that predicts the value of a target variable by learning simple decision rules derived from the properties of the data. A tree can be viewed as a piecewise constant approximation.
+
+For example, in the following example, a decision tree learns from data to approximate a sine wave using a series of if-then-else decision rules. The deeper the tree, the more complex the decision rules and the better the model.
+
+![Encoder Block] (https://editor.analyticsvidhya.com/uploads/67709decision%20tree2.png)
