@@ -14,4 +14,4 @@ Decision trees are a nonparametric supervised learning method used for classific
 
 For example, in the following example, a decision tree learns from data to approximate a sine wave using a series of if-then-else decision rules. The deeper the tree, the more complex the decision rules and the better the model.
 
-![Encoder Block] (https://editor.analyticsvidhya.com/uploads/67709decision%20tree2.png)
+![Encoder Block](https://editor.analyticsvidhya.com/uploads/67709decision%20tree2.png)
